@@ -24,3 +24,17 @@ This Jupyter Notebook, `Tutorial_Pyhton.ipynb`, is designed to guide you through
 
 ### Understanding Data – Data Exploration
 - In-depth analysis and exploration of specific columns in the dataset, such as `days_employed`, `dob_years`, `education`, `family_status`, `gender`, `income_type`, `debt`, `total_income`, and `purpose`. This section dives into each attribute's significance, distribution, and its impact on credit scoring.
+_____________________________
+To use this tutorial, you'll need to have:
+1. **Install Python**: Download and install Python from [the official Python website](https://www.python.org/downloads/). Make sure to add Python to your system's path.
+2. **Install Jupyter Notebook**:  Install Jupyter Notebook by running the following command in your terminal or command prompt:
+   ```bash
+   pip install notebook
+   ```
+   _____________________________________
+#### Data Scientists Members:
+Arwa H. Alshanbari
+Shahd H. Altalhi
+Samaher S. Alsharif
+Ghalia M. Alharthi
+Razan W. Althubiti
