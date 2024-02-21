@@ -33,8 +33,8 @@ To use this tutorial, you'll need to have:
    ```
    _____________________________________
 #### Data Scientists Members:
-Arwa H. Alshanbari
-Shahd H. Altalhi
-Samaher S. Alsharif
-Ghalia M. Alharthi
-Razan W. Althubiti
++ Arwa H. Alshanbari
++ Shahd H. Altalhi
++ Samaher S. Alsharif
++ Ghalia M. Alharthi
++ Razan W. Althubiti
